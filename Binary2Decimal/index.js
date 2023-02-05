@@ -1,3 +1,4 @@
+//SPOILER ALERT: Não funcionou
 function isBinario(value) {
     var binarios = [0,1];
     if (binarios.indexOf(value) == -1) {
